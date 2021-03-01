@@ -1,0 +1,7 @@
+.containermain{
+    display: flex;
+}
+.leftSite {margin-left: 20px;padding: 5px;border-right: 1px solid;margin-right: 10px;}
+.rightSite {
+    transform: translateX(189px);
+}

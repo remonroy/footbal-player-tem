@@ -1,0 +1,89 @@
+[{
+    "id": 1,
+    "name": "Lionel Messi",
+    "selary": 10000,
+    "country": "Argentina",
+    "bron": "June 24, 1987",
+    "img": "https://files.fm/thumb.php?i=bsq6h42yh",
+    "age":"33 years"
+  }, {
+    "id": 2,
+    "name": "Nicolás González",
+    "selary": 9000,
+    "country": "Argentina",
+    "bron": "April 6, 1998",
+    "img": "https://files.fm/thumb_show.php?i=dbq8vs9fs",
+    "age":"23 years"
+  }, {
+    "id": 3,
+    "name": "Paulo Dybala",
+    "selary": 7000,
+    "country": "Argentina",
+    "bron": " November 15, 1993 ",
+    "img": "https://files.fm/thumb_show.php?i=e3f9esvzc",
+    "age":"27 years"
+  }, {
+    "id": 4,
+    "name": "Lautaro Martínez",
+    "selary": 5000,
+    "country": "Argentina",
+    "bron": "August 22, 1997",
+    "img": "https://files.fm/thumb_show.php?i=btu35upyn",
+    "age":"23 years"
+  }, {
+    "id": 5,
+    "name": "Lucas Martínez Quarta",
+    "selary": 1200,
+    "country": "Argentina",
+    "bron": " May 10, 1996 ",
+    "img": "https://files.fm/thumb_show.php?i=wdepjw8h7",
+    "age":"25 years"
+  }, {
+    "id": 6,
+    "name": "Emiliano Martínez",
+    "selary": 6700,
+    "country": "Argentina",
+    "bron": "September 2, 1992",
+    "img": "https://files.fm/thumb_show.php?i=2r75y2dfu",
+    "age":"27 years"
+  }, {
+    "id": 7,
+    "name": "Ángel Di María",
+    "selary": 2300,
+    "country": "Argentina",
+    "bron": "February 14, 1988",
+    "img": "https://files.fm/thumb_show.php?i=ffvjyz4sr",
+    "age":"23 years"
+  }, {
+    "id": 8,
+    "name": "Exequiel Palacios",
+    "selary": 450,
+    "country": "Argentina",
+    "bron": "October 5, 1998 ",
+    "img": "https://files.fm/thumb_show.php?i=dptw489ua",
+    "age":"23 years"
+  }, {
+    "id": 9,
+    "name": "Alejandro Darío Gómez",
+    "selary": 5600,
+    "country": "Argentina",
+    "bron": "February 15, 1988",
+    "img": "https://files.fm/thumb_show.php?i=dk7skx5nv",
+    "age":"27 years"
+  }, {
+    "id": 10,
+    "name": "Franco Armani",
+    "selary": 3800,
+    "country": "Argentina",
+    "bron": "October 16, 1986",
+    "img": "https://files.fm/thumb_show.php?i=8njjcf34s",
+    "age":"34 years"
+  }, {
+    "id": 11,
+    "name": "Leandro Paredes",
+    "selary": 9000,
+    "country": "Argentina",
+    "bron": "June 29, 1994",
+    "img": "https://files.fm/thumb_show.php?i=9pk4hjbt8",
+    "age":"32 years"
+  }]
